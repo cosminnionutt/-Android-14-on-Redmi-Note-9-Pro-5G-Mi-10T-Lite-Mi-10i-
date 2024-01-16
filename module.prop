@@ -1,0 +1,12 @@
+id=LiteGappsPackageContactAOSP
+name=LiteGapps Package Contact AOSP
+version=v20231122
+versionCode=20231122
+minsdk=off
+date=22-11-2023
+device=All
+author=The LiteGapps Project
+description=LiteGapps Package/Addon information : https://litegapps.github.io
+typeinstall=auto
+android_sdk=34
+android_arch=x86_64
